@@ -8,3 +8,4 @@ for(i=0;i<data.length;i++){
 }
 console.log(newdata);
 console.log(data.slice(0,1));
+console.log("new line added");
