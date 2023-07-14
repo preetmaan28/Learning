@@ -12,3 +12,4 @@ console.log("new line added");
 console.log("Number 2 commit");
 console.log("Number 3 commit");
 console.log("Number 4 commit");
+console.log("New branch");
